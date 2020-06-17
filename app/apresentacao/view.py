@@ -33,9 +33,9 @@ dados = {
     },
     'consulta_anos': {
         'ano'             : f'{baseUrl}/anos',
-        'anos_anteriores' : f'{baseUrl}/anos_anteriores',
-        'anos_posteriores': f'{baseUrl}/anos_posteriores',
-        'periodo'         : f'{baseUrl}/periodos',
+        'anos_anteriores' : f'{baseUrl}/anos/anteriores',
+        'anos_posteriores': f'{baseUrl}/anos/posteriores',
+        'periodo'         : f'{baseUrl}/anos',
     },
 
     'consulta_expressoes': {
