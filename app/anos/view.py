@@ -52,16 +52,16 @@ def descricao():
             'exemplo': f'{baseUrl}/anos/2020/paginas/1'
         },
         'anos_anteriores': {
-            'modelo' : f'{baseUrl}/anos_anteriores/<int:ano>/paginas/<int:numero_pagina>',
-            'exemplo': f'{baseUrl}/anos_anteriores/2005/paginas/1'
+            'modelo' : f'{baseUrl}/anos/anteriores/<int:ano>/paginas/<int:numero_pagina>',
+            'exemplo': f'{baseUrl}/anos/anteriores/2005/paginas/1'
         },
         'anos_posteriores': {
-            'modelo' : f'{baseUrl}/anos_posteriores/<int:ano>/paginas/<int:numero_pagina>',
-            'exemplo': f'{baseUrl}/anos_posteriores/2000/paginas/1'
+            'modelo' : f'{baseUrl}/anos/posteriores/<int:ano>/paginas/<int:numero_pagina>',
+            'exemplo': f'{baseUrl}/anos/posteriores/2000/paginas/1'
         },
         'periodo': {
-            'modelo' : f'{baseUrl}/periodos/inicio/<int:ano_inicio>/fim/<int:ano_fim>/paginas/<int:numero_pagina>',
-            'exemplo': f'{baseUrl}/periodos/inicio/2000/fim/2005/paginas/1'
+            'modelo' : f'{baseUrl}/anos/inicio/<int:ano_inicio>/fim/<int:ano_fim>/paginas/<int:numero_pagina>',
+            'exemplo': f'{baseUrl}/anos/inicio/2000/fim/2005/paginas/1'
         }
     }
     return make_response(jsonify(descricao), 200, headers)
