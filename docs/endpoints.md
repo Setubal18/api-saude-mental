@@ -87,7 +87,7 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
     "_id": {
       "$oid" "5e48066f98e462a6e03e7376"
     },
-    "autores": "autor1", "autor2, ...",
+    "autores": "autor1", "autor2, ..."
     "data": {
       "$date": 1579219200000
     },
@@ -144,7 +144,7 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
     "_id": {
       "$oid" "5e48066f98e462a6e03e7376"
     },
-    "autores": "autor1", "autor2, ...",
+    "autores": "autor1", "autor2, ..."
     "data": {
       "$date": 1579219200000
     },
@@ -196,7 +196,7 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
     "_id": {
       "$oid" "5e48066f98e462a6e03e7376"
     },
-    "autores": "autor1", "autor2, ...",
+    "autores": "autor1", "autor2, ..."
     "data": {
       "$date": 1579219200000
     },
@@ -249,7 +249,7 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
     "data": {
       "$date": 1579219200000
     },
-    "palavrachave": ["palavra1", "palavra2", "..."],
+    "palavrachave": ["palavra1", "palavra2", "..."]
     "repositorio": "USP",
     "resumo": "Este trabalho ...",
     "tipo": "mestrado",
@@ -305,7 +305,7 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
     "data": {
       "$date": 1579219200000
     },
-    "palavrachave": ["palavra1", "palavra2", "..."],
+    "palavrachave": ["palavra1", "palavra2", "..."]
     "repositorio": "USP",
     "resumo": "Este trabalho ...",
     "tipo": "mestrado",
