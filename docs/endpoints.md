@@ -83,19 +83,22 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
 
 ```json
 [
-  "_id": {
-    "$oid" "5e48066f98e462a6e03e7376"
-  },
-  "autores": "autor1", "autor2, ...",
-  "data": {
-    "$date": 1579219200000
-  },
-  "palavrachave": ["palavra1", "palavra2", "..."],
-  "repositorio": "USP",
-  "resumo": "Este trabalho ...",
-  "tipo": "mestrado",
-  "titulo": "Titulo Do Trabalho",
-  "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  {
+    "_id": {
+      "$oid" "5e48066f98e462a6e03e7376"
+    },
+    "autores": "autor1", "autor2, ...",
+    "data": {
+      "$date": 1579219200000
+    },
+    "palavrachave": ["palavra1", "palavra2", "..."],
+    "repositorio": "USP",
+    "resumo": "Este trabalho ...",
+    "tipo": "mestrado",
+    "titulo": "Titulo Do Trabalho",
+    "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  }
+  
 ]
 ```
 
@@ -137,19 +140,21 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
 
 ```json
 [
-  "_id": {
-    "$oid" "5e48066f98e462a6e03e7376"
-  },
-  "autores": "autor1", "autor2, ...",
-  "data": {
-    "$date": 1579219200000
-  },
-  "palavrachave": ["palavra1", "palavra2", "..."],
-  "repositorio": "USP",
-  "resumo": "Este trabalho ...",
-  "tipo": "mestrado",
-  "titulo": "Titulo Do Trabalho",
-  "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  {
+    "_id": {
+      "$oid" "5e48066f98e462a6e03e7376"
+    },
+    "autores": "autor1", "autor2, ...",
+    "data": {
+      "$date": 1579219200000
+    },
+    "palavrachave": ["palavra1", "palavra2", "..."],
+    "repositorio": "USP",
+    "resumo": "Este trabalho ...",
+    "tipo": "mestrado",
+    "titulo": "Titulo Do Trabalho",
+    "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  } 
 ]
 ```
 
@@ -187,19 +192,21 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
 
 ```json
 [
-  "_id": {
-    "$oid" "5e48066f98e462a6e03e7376"
-  },
-  "autores": "autor1", "autor2, ...",
-  "data": {
-    "$date": 1579219200000
-  },
-  "palavrachave": ["palavra1", "palavra2", "..."],
-  "repositorio": "USP",
-  "resumo": "Este trabalho ...",
-  "tipo": "mestrado",
-  "titulo": "Titulo Do Trabalho",
-  "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  {
+    "_id": {
+      "$oid" "5e48066f98e462a6e03e7376"
+    },
+    "autores": "autor1", "autor2, ...",
+    "data": {
+      "$date": 1579219200000
+    },
+    "palavrachave": ["palavra1", "palavra2", "..."],
+    "repositorio": "USP",
+    "resumo": "Este trabalho ...",
+    "tipo": "mestrado",
+    "titulo": "Titulo Do Trabalho",
+    "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  }
 ]
 ```
 
@@ -234,19 +241,21 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
 
 ```json
 [
-  "_id": {
-    "$oid" "5e48066f98e462a6e03e7376"
-  },
-  "autores": "autor1", "autor2, ...",
-  "data": {
-    "$date": 1579219200000
-  },
-  "palavrachave": ["palavra1", "palavra2", "..."],
-  "repositorio": "USP",
-  "resumo": "Este trabalho ...",
-  "tipo": "mestrado",
-  "titulo": "Titulo Do Trabalho",
-  "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  {
+    "_id": {
+      "$oid" "5e48066f98e462a6e03e7376"
+    },
+    "autores": "autor1", "autor2, ...",
+    "data": {
+      "$date": 1579219200000
+    },
+    "palavrachave": ["palavra1", "palavra2", "..."],
+    "repositorio": "USP",
+    "resumo": "Este trabalho ...",
+    "tipo": "mestrado",
+    "titulo": "Titulo Do Trabalho",
+    "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  }
 ]
 ```
 
@@ -288,19 +297,21 @@ O formato de resposta (*response*) de uma requisição (*request*) é no formato
 
 ```json
 [
-  "_id": {
-    "$oid" "5e48066f98e462a6e03e7376"
-  },
-  "autores": "autor1", "autor2, ...",
-  "data": {
-    "$date": 1579219200000
-  },
-  "palavrachave": ["palavra1", "palavra2", "..."],
-  "repositorio": "USP",
-  "resumo": "Este trabalho ...",
-  "tipo": "mestrado",
-  "titulo": "Titulo Do Trabalho",
-  "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  {
+    "_id": {
+      "$oid" "5e48066f98e462a6e03e7376"
+    },
+    "autores": "autor1", "autor2, ...",
+    "data": {
+      "$date": 1579219200000
+    },
+    "palavrachave": ["palavra1", "palavra2", "..."],
+    "repositorio": "USP",
+    "resumo": "Este trabalho ...",
+    "tipo": "mestrado",
+    "titulo": "Titulo Do Trabalho",
+    "url": "https://teses.usp.br/teses/disponiveis/22/22131/tde-19112019-195052/pt-br.php"
+  }
 ]
 ```
 
